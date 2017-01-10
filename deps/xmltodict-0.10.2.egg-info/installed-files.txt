@@ -1,7 +1,0 @@
-../xmltodict.py
-../__pycache__/xmltodict.cpython-34.pyc
-.
-PKG-INFO
-dependency_links.txt
-SOURCES.txt
-top_level.txt
